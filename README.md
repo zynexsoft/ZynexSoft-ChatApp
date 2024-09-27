@@ -1,2 +1,1 @@
-# ZynexSoft-ChatApp
-A chat application like messenger and a practice project working with Sager. 
+A chat application like messenger and a practice project working with Sagar. 

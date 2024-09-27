@@ -1,0 +1,10 @@
+{
+  "name": "ZynexSoft-ChatApp",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "concurrently \"npm start --prefix frontend\" \"npm start --prefix backend\""
+  },
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
